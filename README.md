@@ -124,7 +124,7 @@ npm start ```*
 
 ## 📸 Screenshots
 
-### Choose Movie:
+### 🎞️Choose Movie:
 <img width="1911" height="1079" alt="Screenshot 2025-10-01 195318" src="https://github.com/user-attachments/assets/d66631ca-1ee8-4376-abdc-170d345b2c44" />
 
 ### 👨‍💻 Admin Page:
