@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="md:max-w-96">
                     <img alt="logo" class="h-11" src={assets.logo} />
                     <p className="mt-6 text-sm">
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                       At CineGharShow, we make it easier for you to discover trending movies, upcoming releases, and timeless classics. Entertainment made simple, anytime, anywhere.
                     </p>
                     <div className="flex items-center gap-2 mt-4">
                         <img src={assets.googlePlay} alt="google play" className="h-9 w-auto " />
@@ -28,14 +28,14 @@ const Footer = () => {
                     <div>
                         <h2 className="font-semibold mb-5">Get in touch</h2>
                         <div className="text-sm space-y-2">
-                            <p>+91 9973107405</p>
+                            <p>+91 9973****05</p>
                             <p>alok.officials.25@gmail.com</p>
                         </div>
                     </div>
                 </div>
             </div>
             <p className="pt-4 text-center text-sm pb-5">
-                Copyright {new Date().getFullYear()} © <a href="https://prebuiltui.com">QuickShow</a>. All Right Reserved.
+                Copyright {new Date().getFullYear()} © <a href="https://prebuiltui.com">CineGharShow</a>. All Right Reserved.
             </p>
         </footer>
   )
